@@ -1,0 +1,9 @@
+/*
+Theme Name: Our Child Theme
+Version: 1.0
+Description: A child theme of SiteOrigin North
+Author: zufre
+Template: siteorigin-north
+*/
+
+@import url("../siteorigin-north/style.css");
